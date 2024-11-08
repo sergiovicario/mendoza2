@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #ffb347);
+    font-size: 25px;
+    text-align: left;
+}
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(0, 88, 22);
+    font-size: 30px;
+    text-align: center;
+    text-decoration: dotted ;
+}
+iframe {
+    border: 2px solid #4CAF50; 
+    width: 600px; 
+    height: 400px; 
+}
+audio {
+    margin-top: 20px; 
+    border: 2px solid #4CAF50; 
+}
+abbr{
+    color:#ff0000
+}
+
